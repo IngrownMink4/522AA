@@ -1,3 +1,3 @@
-## Discord Barbero Bot
+## 522AA STUFF
 
 En mantenimiento...
