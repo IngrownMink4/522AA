@@ -1,3 +1,3 @@
 ## 522AA STUFF
 
-En mantenimiento...
+`Este proyecto está en mantenimiento interno...`
