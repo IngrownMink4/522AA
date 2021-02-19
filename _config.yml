@@ -2,5 +2,8 @@ theme: jekyll-theme-cayman
 title: [522AA]
 description: [A repository to share Discord 522AA server resources and source code.]
 markdown: kramdown
+kramdown:
+  math_engine: katex
+  syntax_highlighter: rouge
 highlighter: rouge
 encoding: UTF-8
