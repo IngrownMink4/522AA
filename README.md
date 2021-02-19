@@ -1,3 +1,3 @@
-## 522AA STUFF
+## 522AA Discord Server
 
 `Este proyecto está en mantenimiento interno...`
