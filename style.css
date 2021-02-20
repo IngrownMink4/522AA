@@ -11,10 +11,7 @@ p {
   font-family: sans-serif;
   font-size: 20px;
 }
-.smoothed {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+
 
 html {
     scroll-behavior: smooth;
