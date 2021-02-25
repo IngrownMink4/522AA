@@ -14,17 +14,6 @@ html {
     scroll-behavior: smooth;
 }
     
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #eee;
-    background: #121212;
-  }
-
-  body a {
-    color: red;
-  }
-}
-  
 ::-webkit-scrollbar-thumb {
     background: #99AAB5;
     border-radius: 7px;
@@ -48,9 +37,15 @@ body {
    background-color: #7289DA;
    font-family: sans-serif, serif;
     
-.dark-mode {
-  background-color: black;
-  color: white;
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ffffff;
+    background: #121212;
+  }
+
+  body a {
+    color: red;
+  }
 }
 
 h1 {
@@ -122,16 +117,6 @@ Developed by the rookie developer @IngrownMink4
 <p2>
 <a href="https://github.com/IngrownMink4/522AA">source code available here, licensed  under the GNU GPLv3</a>
 </p2>
-<br>
-<button onclick="myFunction()">Dark mode</button>
-
-<script>
-function myFunction() {
-   var element = document.body;
-   element.classList.toggle("dark-mode");
-}
-</script>
-
 
 </body>
 </html>
