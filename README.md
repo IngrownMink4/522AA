@@ -1,5 +1,5 @@
 ## 522AA Discord Server
-![522AA](522aa.png)
+![522AA](522aa.webp)
 
 ```
 Os presento al servidor 522AA. Un server divertido, dinamico y muy personalizado. 
