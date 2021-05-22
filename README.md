@@ -5,5 +5,6 @@ Dispone de muchisimos bots super útiles y además cuenta con un gran sistema de
 La documentación y los recursos aún no están compartidos, pero en breve lo estarán.
 
 ![522AA](522aa.webp)
+![522AA](DiscordPTB_fL3l4OOF6z.webp)
 
 
