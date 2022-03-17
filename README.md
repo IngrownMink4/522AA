@@ -8,7 +8,7 @@ La documentación y los recursos aún no están compartidos, pero en breve lo es
 ![522AA](DiscordPTB_fL3l4OOF6z.webp)
 
 # Licencia
-Copyright © 2021 Sergio Varela
+Copyright © 2022 Sergio Varela
 
 522AA is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
